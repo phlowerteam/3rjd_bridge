@@ -1,0 +1,14 @@
+D, [2013-02-14T22:44:15.708854 #7723] DEBUG -- :   [1m[36mJosDocman Load (0.6ms)[0m  [1mSELECT `jos_docman`.* FROM `jos_docman` [0m
+D, [2013-02-14T22:44:15.744917 #7723] DEBUG -- :   [1m[35mJosCategory Load (0.2ms)[0m  SELECT `jos_categories`.* FROM `jos_categories` 
+D, [2013-02-14T22:52:35.398641 #8040] DEBUG -- :   [1m[36mJosDocman Load (0.6ms)[0m  [1mSELECT `jos_docman`.* FROM `jos_docman` [0m
+D, [2013-02-14T22:52:35.445739 #8040] DEBUG -- :   [1m[35mJosCategory Load (0.3ms)[0m  SELECT `jos_categories`.* FROM `jos_categories` 
+D, [2013-02-14T22:52:35.574764 #8040] DEBUG -- :   [1m[36mDocument Load (14.5ms)[0m  [1mSELECT `documents`.* FROM `documents` [0m
+D, [2013-02-14T22:52:35.622987 #8040] DEBUG -- :   [1m[35mCategory Load (17.0ms)[0m  SELECT `categories`.* FROM `categories` 
+D, [2013-02-14T23:05:15.795730 #8280] DEBUG -- :   [1m[36mJosDocman Load (0.6ms)[0m  [1mSELECT `jos_docman`.* FROM `jos_docman` [0m
+D, [2013-02-14T23:05:15.834592 #8280] DEBUG -- :   [1m[35mJosCategory Load (0.2ms)[0m  SELECT `jos_categories`.* FROM `jos_categories` 
+D, [2013-02-14T23:05:15.874121 #8280] DEBUG -- :   [1m[36mDocument Load (0.4ms)[0m  [1mSELECT `documents`.* FROM `documents` [0m
+D, [2013-02-14T23:05:15.905036 #8280] DEBUG -- :   [1m[35mCategory Load (0.4ms)[0m  SELECT `categories`.* FROM `categories` 
+D, [2013-02-14T23:06:16.739909 #8293] DEBUG -- :   [1m[36mJosDocman Load (0.6ms)[0m  [1mSELECT `jos_docman`.* FROM `jos_docman` [0m
+D, [2013-02-14T23:06:16.777622 #8293] DEBUG -- :   [1m[35mJosCategory Load (0.2ms)[0m  SELECT `jos_categories`.* FROM `jos_categories` 
+D, [2013-02-14T23:06:16.814260 #8293] DEBUG -- :   [1m[36mDocument Load (0.4ms)[0m  [1mSELECT `documents`.* FROM `documents` [0m
+D, [2013-02-14T23:06:16.845440 #8293] DEBUG -- :   [1m[35mCategory Load (0.4ms)[0m  SELECT `categories`.* FROM `categories` 
