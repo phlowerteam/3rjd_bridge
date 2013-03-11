@@ -1,6 +1,7 @@
 adapter: mysql2
 encoding: utf8
-database: alexandria
+#database: alexandria
+database: alexandria_docman
 pool: 5
 username: root
 password: root
